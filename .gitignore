@@ -22,6 +22,9 @@ parking.log
 
 # Runtime IPC
 /tmp/smart_parking_fifo
+*.exe
+parking_data.txt
+
 
 # VS Code
 .vscode/*.log
