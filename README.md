@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Linux-Based Smart Parking Management System
 
 ## 1. Project Overview
@@ -1565,3 +1566,6 @@ The Linux-Based Smart Parking Management System demonstrates how a practical par
 The project combines application-level functionality with Linux system programming, FIFO IPC, virtual sensors, file persistence, logging, and a Linux character-device driver.
 
 It provides a complete learning-oriented implementation covering software design, data structures, Linux programming, kernel interaction, testing, documentation, and Git/GitHub-based project management.
+=======
+# Intelligent_parking_system
+>>>>>>> e9dec0698ed304ea2b20d34c31382fd1f312de04
